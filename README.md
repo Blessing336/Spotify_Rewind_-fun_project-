@@ -11,18 +11,21 @@ The goal is to create a meaningful and immersive experience that allows me to re
 <br/>
 
 ### Project Objectives
-Create my own version of Spotify Wrap using Maven Spotify Dataset.
+* Create my own version of Spotify Wrap using Maven Spotify Dataset.
 
 <br/>
 
-Design
-1. The Rewind Page – A Look Back
+### Design
+
+1. **The Rewind Page** – A Look Back
 
 The Rewind Page is designed to help me reminisce about my top 10 tracks from each year. Rather than requiring me to manually select my data, this page is built to deliver an automatic and seamless playback experience, allowing me to relive cherished moments tied to my favorite songs.
 
 Focus: All plays, including those less than 30 seconds.
 
-2. The Overview Page – A Behavioral Snapshot
+<br/>
+
+2. **The Overview Page** – A Behavioral Snapshot
 The Overview Page provides a high-level summary of my listening behavior, covering key aspects such as:
 
 Listening platforms (iOS, Android, Web Player)
@@ -33,7 +36,9 @@ This page helps me identify patterns in my music habits and understand how my en
 
 Focus: Streamed Plays (≥ 30 seconds tracks).
 
-3. The Listening Hours Page – Platform-Based Listening Habits
+<br/>
+
+3. **The Listening Hours Page** – Platform-Based Listening Habits
 This page answers questions like:
 
 What time of day do I listen to music, and on which platform?
@@ -42,7 +47,9 @@ It allows me to see my hourly listening trends across different platforms and un
 
 Focus: Streamed Plays (≥ 30 seconds tracks).
 
-Notable Insights
+<br/><br/>
+
+### Notable Insights
 1. Steady Growth in Streaming Activity
 The number of streams increased over the years, showing a growing engagement with music. This indicates that my reliance on Spotify expanded over time, with a consistent rise in listening habits.
 
