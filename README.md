@@ -91,6 +91,10 @@ undefined
 
 Working with the Maven Spotify Dataset was fun. It improved my knowledge of DAX (like achieving transparent colors), and Power BI
 
+<br/><br/>
+
+Find link to dashboard *[here]*(https://app.powerbi.com/view?r=eyJrIjoiNTRmNjczZTQtZWY4Mi00ZTU0LWE0YjEtYzcyOTM4OTE2NTJlIiwidCI6IjY5M2I4NzFiLTNhMjItNDUxOS04ZjZhLTFhYjNjOTI4Y2FlMSJ9)
+
 
 
 <br/><br/>
