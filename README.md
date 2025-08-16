@@ -10,7 +10,7 @@ The goal is to create a meaningful and immersive experience that allows me to re
 
 <br/>
 
-[spotify_full](https://github.com/Blessing336/Spotify_Rewind_-fun_project-/blob/3655e84f7c88aaf4d93d66dd0d6af2ff42865531/Spotify_full.gif)
+![spotify_full](https://github.com/Blessing336/Spotify_Rewind_-fun_project-/blob/3655e84f7c88aaf4d93d66dd0d6af2ff42865531/Spotify_full.gif)
 
 <br/>
 
