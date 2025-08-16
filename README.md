@@ -1,20 +1,19 @@
 # Spotify_Rewind_-fun_project-
 
-This is my own version of spotify wrapped
-
-
-
-### About this project
 
 
 Music has the power to evoke emotions, bring back memories, and shape daily experiences. This project leverages the Maven Spotify dataset to analyze streaming behavior and uncover insights into user engagement across different years, platforms, and listening habits.
 
 <br/>
 
-*The goal is to create a meaningful and immersive experience that allows me to reflect on my musical journey.*
+The goal is to create a meaningful and immersive experience that allows me to reflect on my musical journey.
 
-Project Objectives
-Create my own version of Spotify Wrapped using Maven Spotify Dataset.
+<br/>
+
+### Project Objectives
+Create my own version of Spotify Wrap using Maven Spotify Dataset.
+
+<br/>
 
 Design
 1. The Rewind Page – A Look Back
